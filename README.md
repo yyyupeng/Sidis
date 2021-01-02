@@ -1,0 +1,2 @@
+# Sidis
+Simple Dictionary Server
