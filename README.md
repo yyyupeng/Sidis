@@ -20,11 +20,12 @@
 ## 目录说明
 ```
 |—— client 客户端目录
+|—— image 测试截图
 |—— server 服务端目录
 	|—— base 基础支持相关
 	|—— db 数据库设计相关
 	|—— net 网络相关
-|—— image 测试截图
+|—— test 测试代码
 ```
 ## 安装及运行
 运行前请先安装CMake（2.8及以上版本）
@@ -38,3 +39,7 @@ make
 - 基础功能
 
 ![image --basic](https://raw.githubusercontent.com/yyyupeng/Sidis/main/image/Basic_functions.png)
+- 性能测试
+
+![image --performance](https://raw.githubusercontent.com/yyyupeng/Sidis/main/image/performance.png)
+
